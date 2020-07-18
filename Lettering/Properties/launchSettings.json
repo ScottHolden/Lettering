@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lettering": {
+      "commandName": "Project",
+      "commandLineArgs": "\"your.bot.token.goes.here\""
+    }
+  }
+}
